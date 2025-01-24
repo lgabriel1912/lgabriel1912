@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Luiz Gabriel 👋
 
-<!--
-**lgabriel1912/lgabriel1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently enrolled in the **DevClub Full Stack Development course** and working hard to master both frontend and backend development. I am excited to learn new technologies and become a well-rounded developer.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I'm Using
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js
+- **Database**:  SQL
+- **Version Control**: Git, GitHub
+
+## 🌱 Currently Learning
+
+- Building RESTful APIs with **Node.js**.
+- Developing dynamic user interfaces with **React**.
+- Working with databases (both **SQL** and **NoSQL**).
+
+## 📬 Let's Connect
+
+- Email: lgabriel1912@gmail.com
+- LinkedIn: [My LinkedIn](linkedin.com/in/luiz-gabriel-dos-santos-de-lima-55564b174)
